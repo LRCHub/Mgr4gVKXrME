@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Phase",
+  "base_artist": "IS:SUE",
+  "createdAt": "2025-12-21T02:15:12.194486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Absolute In Doubt (feat. Wicca Phase Springs Eternal)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/01_Absolute_In_Doubt_(feat._Wicca_Phase_Springs_Eternal)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Avoid (feat. Wicca Phase Springs Eternal & Døves)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/02_Avoid_(feat._Wicca_Phase_Springs_Eternal_&_Døves)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dark Alley (feat. Alice Glass & Wicca Phase Springs Eternal)",
+      "artist": "Lil Zubin",
+      "has_synced": false,
+      "path": "select/03_Dark_Alley_(feat._Alice_Glass_&_Wicca_Phase_Springs_Eternal)_Lil_Zubin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Home on Time (feat. Wicca Phase Springs Eternal)",
+      "artist": "Nedarb Nagrom",
+      "has_synced": false,
+      "path": "select/04_Home_on_Time_(feat._Wicca_Phase_Springs_Eternal)_Nedarb_Nagrom.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Odyssey Phase 2",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": false,
+      "path": "select/05_Odyssey_Phase_2_Jean-Michel_Jarre.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Odyssey Phase 3",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": true,
+      "path": "select/06_Odyssey_Phase_3_Jean-Michel_Jarre.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Out Of Phase",
+      "artist": "The Servant",
+      "has_synced": false,
+      "path": "select/07_Out_Of_Phase_The_Servant.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "God's Country (feat. Wicca Phase Springs Eternal)",
+      "artist": "Ethel Cain feat. Wicca Phase Springs Eternal",
+      "has_synced": true,
+      "path": "select/08_God's_Country_(feat._Wicca_Phase_Springs_Eternal)_Ethel_Cain_feat._Wicca_Phase_Springs_Eternal.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "God's Country (feat. Wicca Phase Springs Eternal)",
+      "artist": "Ethel Cain",
+      "has_synced": true,
+      "path": "select/09_God's_Country_(feat._Wicca_Phase_Springs_Eternal)_Ethel_Cain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Schwabing 7. Phase",
+      "artist": "Tomcraft",
+      "has_synced": false,
+      "path": "select/10_Schwabing_7._Phase_Tomcraft.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strictly Out Of Phase",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/11_Strictly_Out_Of_Phase_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Acoustic Guitar Phase",
+      "artist": "Barzin",
+      "has_synced": true,
+      "path": "select/12_Acoustic_Guitar_Phase_Barzin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Zephyrus - Phase One Remix",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/13_Zephyrus_-_Phase_One_Remix_Bloc_Party.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Phase",
+      "artist": "IS:SUE",
+      "has_synced": false,
+      "path": "select/pl_01_Phase_IS_SUE.txt"
+    }
+  ]
+}
